@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "firstName": "Aarti",
+      "lastName": "kale",
+      "email": "aarti@gmail.com",
+      "mobileNo": 7741012844
+    },
+    {
+      "id": 3,
+      "firstName": "swara",
+      "lastName": "Wadekar",
+      "email": "swara@gmail.com",
+      "mobileNo": 7340781155
+    },
+    {
+      "id": 4,
+      "firstName": "Mohini",
+      "lastName": "Ugale",
+      "email": "mohini@gmail.com",
+      "mobileNo": 7741012866
+    },
+    {
+      "id": 5,
+      "firstName": "soham",
+      "lastName": "dhavle",
+      "email": "soham@gmail.com",
+      "mobileNo": 9801138666
+    },
+    {
+      "id": 6,
+      "firstName": "vijaya",
+      "lastName": "kale",
+      "email": "vijaya@gmail.com",
+      "mobileNo": 8806341666
+    },
+    {
+      "id": 7,
+      "firstName": "Shivdas",
+      "lastName": "Patil",
+      "email": "shivdas@gmail.com",
+      "mobileNo": 7741013866
+    }
+  ]
+}
